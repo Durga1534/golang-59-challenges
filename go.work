@@ -3,5 +3,6 @@ go 1.24.0
 use (
 	.
 	./projects/03-book-store
+	./projects/04-mongo-crud
 	./projects/crud-api
 )
