@@ -1,7 +1,3 @@
-To make your pivot look professional and intentional, your Master README needs to act as a mission statement. It should explain that you are moving from passive learning to independent engineering by following specific project requirements.
-
-Here is a professional template you can use for your root directory. It highlights your move toward Clean Architecture and Production-Grade standards.
-
 Go Engineering Challenge 🚀
 A structured journey from Go fundamentals to production-grade distributed systems.
 
