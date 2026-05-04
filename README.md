@@ -17,23 +17,3 @@ Every project in this repository is built using the following professional workf
 3.  **Implementation:** Writing clean, idiomatic Go with an emphasis on the standard library.
 4.  **Observability:** Using structured logging and proper error handling.
 
-## 📂 Level-Based Roadmap
-
-| Level | Project | Core Concepts | Status |
-| :--- | :--- | :--- | :--- |
-| **Beginner** | [Task Tracker](./01-beginner/task-tracker) | JSON Persistence, CLI `os.Args`, File I/O | 🚧 In Progress |
-| **Intermediate** | URL Shortener | Redis Caching, HTTP Middleware, Context | ⏳ Planned |
-| **Advanced** | [Analytics Ingestor](https://github.com/Durga1534) | Redis Streams, PostgreSQL, Concurrency | ✅ Completed |
-
-## 🛠️ Tech Stack & Standards
-*   **Language:** Go (Golang)
-*   **Patterns:** Clean Architecture, Dependency Injection (via Interfaces)
-*   **Tooling:** Makefiles for automation, Go Workspaces for monorepo management
-*   **Hardware Constraint:** Optimized for 8GB RAM environments to ensure high-performance, low-memory footprints.
-
-## 🚀 Getting Started
-This repository uses **Go Workspaces**.
-```bash
-git clone [https://github.com/Durga1534/go-engineering-path.git](https://github.com/Durga1534/go-engineering-path.git)
-cd 01-beginner/task-tracker
-make run
